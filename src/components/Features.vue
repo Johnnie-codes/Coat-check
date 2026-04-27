@@ -5,7 +5,7 @@ const features = [
   {
     icon: QrCode,
     title: 'Digital Tickets',
-    description: 'Guests receive a digital ticket via SMS or Apple/Google Wallet. No more lost paper stubs or forgotten items.'
+    description: 'Guests receive a digital ticket via SMS or Telegram. No more lost paper stubs or forgotten items.'
   },
   {
     icon: Clock,
@@ -30,7 +30,7 @@ const features = [
   {
     icon: CreditCard,
     title: 'Cashless Tipping & Payment',
-    description: 'Guests can pay and tip seamlessly via Apple Pay, Google Pay, or credit card right from their phones.'
+    description: 'Guests can pay and tip seamlessly via Telebirr, CBE Birr, Chapa, or bank transfer right from their phones.'
   }
 ];
 </script>

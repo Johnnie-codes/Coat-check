@@ -108,7 +108,7 @@ import { ShieldCheck, Zap, Ticket } from 'lucide-vue-next';
               </div>
               <div>
                 <p class="text-sm font-bold text-black">Generous Tip</p>
-                <p class="text-xs text-slate-500">via Apple Pay</p>
+                <p class="text-xs text-slate-500">via Telebirr</p>
               </div>
             </div>
           </div>
